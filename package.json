@@ -7,6 +7,9 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@types/node": "^12.7.3",
+    "fs": "^0.0.1-security",
+    "pdfkit": "^0.10.0",
     "ts-node": "^8.3.0",
     "typescript": "^3.5.3"
   }
