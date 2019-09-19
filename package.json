@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node decoretor.ts"
+    "start": "ts-node src/Document.ts",
+    "start:decoretor": "ts-node decoretor.ts"
   },
   "license": "MIT",
   "dependencies": {
